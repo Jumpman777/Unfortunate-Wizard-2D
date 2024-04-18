@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3093b0197bd4eb99bdcac7839945349, type: 3}
+  m_Name: Summon Objects Data
+  m_EditorClassIdentifier: 
+  summonObjectDataList:
+  - <name>k__BackingField: 5
+    <prefab>k__BackingField: {fileID: 7227711867401890066, guid: 005f2baba63809d42b731370965a9ec4, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 3
+    <prefab>k__BackingField: {fileID: 7015374039151468188, guid: 5adfc1c31c4c20f49bd73942eae4edb7, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 4
+    <prefab>k__BackingField: {fileID: 3222471459374980602, guid: c28ccd655d42f3f42ae6cbf0642c47c8, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 6
+    <prefab>k__BackingField: {fileID: 7287271936405824069, guid: 2a7a62591f8cd1140b0e0e6caade68df, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 7
+    <prefab>k__BackingField: {fileID: 6597944464939858720, guid: c3d9f4459b9f1d541821f69025355335, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 1
+    <prefab>k__BackingField: {fileID: 3994600663514533060, guid: 719114bdeb5bab74bb3b88885e7a2733, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 2
+    <prefab>k__BackingField: {fileID: 3877599984637523615, guid: 3e98172b69365a64a903243066b2a6c0, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 9
+    <prefab>k__BackingField: {fileID: 1705373254746365359, guid: 087003b8456c60e498cff450b2e7334f, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 10
+    <prefab>k__BackingField: {fileID: 3402888353013084051, guid: 9f78c884dda0fa044bc3b9f5b592ae80, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
+  - <name>k__BackingField: 8
+    <prefab>k__BackingField: {fileID: 9021924389034567809, guid: 5ff803f983a542a449c82091eb3d6e59, type: 3}
+    <mass>k__BackingField: 0
+    <centerOfMassDisplacement>k__BackingField: {x: 0, y: 0}
